@@ -1,0 +1,8 @@
+id, compay_name, company_code, founder_company_id
+1, New Cars Ltd., NCARS,
+2, Amazing Paints Ltd., APAI,
+3, Cute Pets Ltd., CUPE,
+4, Fast Sedans Co, FASE,1
+5, Blue Ocean Co,,2
+6, Furr Balls Co, FURBA, 3
+7, Blue Fast Sedans,, 4
